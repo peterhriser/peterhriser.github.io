@@ -1,4 +1,4 @@
-theme: jekyll-theme-leap-day
+theme: git-wiki
 title: Peter's 30 Minute Wiki
 plugins:
   - jekyll-relative-links
@@ -7,8 +7,3 @@ relative_links:
   collections: true
 include:
   - test.md
-items:
-    - title: home
-      url: /
-    - title: test
-      url: /test
